@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar ##PREFIX##/sbk-assembly-0.2.jar "$@"
